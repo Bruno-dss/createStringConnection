@@ -5,4 +5,4 @@ function soma(numA,numB){
 
 let resultado = soma(8,3)
 
-console.log("O resultado dessa função é: "+resultado)
+console.log("O resultado dessa função é: " + resultado)
